@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    margin: 0;
+    color: #fff;
+}
+#container{
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid white;
+}
+pre.cat{
+    color: orangered;
+    font-size: 2em;
+}
+pre.bear{
+    color: burlywood;
+    font-size: 1.5em;
+}
+span.eye{
+    color: greenyellow;
+}
